@@ -50,7 +50,7 @@
       "image": "https://images.opencollective.com/casinoonlineaamscom/c59b0fd/logo.png",
       "type": "ORGANIZATION",
       "monthlyDonation": 0,
-      "totalDonations": 230000,
+      "totalDonations": 240000,
       "source": "opencollective",
       "tier": "sponsor"
     },
@@ -61,7 +61,7 @@
       "image": "https://images.opencollective.com/freebets/e21c41b/logo.png",
       "type": "ORGANIZATION",
       "monthlyDonation": 0,
-      "totalDonations": 170000,
+      "totalDonations": 180000,
       "source": "opencollective",
       "tier": "sponsor"
     },
@@ -105,7 +105,18 @@
       "image": "https://images.opencollective.com/casinosicuri-info/5dc691c/avatar.png",
       "type": "INDIVIDUAL",
       "monthlyDonation": 0,
-      "totalDonations": 70000,
+      "totalDonations": 80000,
+      "source": "opencollective",
+      "tier": "sponsor"
+    },
+    {
+      "createdAt": "2023-06-15T13:34:53.677Z",
+      "name": "Игровые автоматы",
+      "url": "https://slotoking.ua/games/",
+      "image": "https://images.opencollective.com/igrovye-avtomaty-ua/96bfde3/logo.png",
+      "type": "ORGANIZATION",
+      "monthlyDonation": 0,
+      "totalDonations": 10000,
       "source": "opencollective",
       "tier": "sponsor"
     }
